@@ -1,10 +1,11 @@
 // Here, the class MyThreadBasic extends the Thread class
 
-package sandpit;
+package threadpit;
 
 public class MyThreadBasic extends Thread {
 
     public MyThreadBasic(String name) {
+    	// Calling a parent class method
         super(name);
     }
 

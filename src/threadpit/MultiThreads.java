@@ -8,7 +8,7 @@
 
 
 
-package sandpit;
+package threadpit;
 
 public class MultiThreads {
 

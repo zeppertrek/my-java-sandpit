@@ -1,4 +1,4 @@
-package sandpit;
+package threadpit;
 
 public class ThreadPool {
 

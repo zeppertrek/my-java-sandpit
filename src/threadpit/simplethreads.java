@@ -1,5 +1,5 @@
 // This class implements the Runnable Interface
-package sandpit;
+package threadpit;
 
 public class simplethreads implements Runnable{
 
@@ -21,7 +21,3 @@ public class simplethreads implements Runnable{
 	}
 	
 	
-	
-	
-	
-}
